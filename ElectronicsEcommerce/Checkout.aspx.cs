@@ -56,14 +56,12 @@ namespace ElectronicsEcommerce
         }
 
         // Event handler for the "Place Order Now" button click
-        // Event handler for the "Place Order Now" button click
-        // Event handler for the "Place Order Now" button click
         protected void btnPlaceOrder_Click(object sender, EventArgs e)
         {
             if (Session["UserID"] == null)
                 Response.Redirect("Login.aspx");
 
-            // (optional) basic shipping validation
+            //  basic shipping validation
             if (string.IsNullOrWhiteSpace(txtFullName.Text) ||
                 string.IsNullOrWhiteSpace(txtAddress.Text) ||
                 string.IsNullOrWhiteSpace(txtCity.Text) ||
@@ -108,10 +106,6 @@ namespace ElectronicsEcommerce
                     $"alert('Order failed: {ex.Message}');", true);
             }
         }
-
-
-
-
 
         // Validates the shipping form fields to ensure they are not empty
         private bool ValidateForm()

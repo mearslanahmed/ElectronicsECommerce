@@ -61,7 +61,8 @@ namespace ElectronicsEcommerce
 
                 // Display a success message and redirect to the shopping cart
                 ClientScript.RegisterStartupScript(GetType(), "alert",
-                    "alert('Added to cart!'); window.location.href = 'ShopCart.aspx?r=' + Math.random();", true);
+                 "alert('Added to cart!');", true);
+
             }
             catch (Exception ex)
             {

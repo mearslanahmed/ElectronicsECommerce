@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\shopcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\shopcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|d:\\z_clients project\\electronicsecommerce\\electronicsecommerce\\electronicsecommerce\\shopcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\shopcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\electronicsecommerce\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\electronicsecommerce\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\electronicsecommerce\\shopcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72C4AED6-F32F-4ED7-9DA7-207A9E7FCE35}|ElectronicsEcommerce\\ElectronicsEcommerce.csproj|solutionrelative:electronicsecommerce\\shopcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,32 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Checkout.aspx.cs",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Checkout.aspx.cs",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Checkout.aspx.cs",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Checkout.aspx.cs*",
-              "RelativeToolTip": "ElectronicsEcommerce\\Checkout.aspx.cs*",
-              "ViewState": "AgIAABAAAACAMDMzMzMhwG4AAAAAAAAAAAAAAA==",
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "ElectronicsEcommerce\\ProductDetails.aspx.cs",
+              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ProductDetails.aspx.cs*",
+              "RelativeToolTip": "ElectronicsEcommerce\\ProductDetails.aspx.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAewD8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:39:41.349Z",
+              "WhenOpened": "2025-05-10T15:42:45.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.aspx",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Home.aspx",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Home.aspx",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Home.aspx",
-              "RelativeToolTip": "ElectronicsEcommerce\\Home.aspx",
+              "DocumentIndex": 1,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "ElectronicsEcommerce\\ProductDetails.aspx",
+              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ProductDetails.aspx",
+              "RelativeToolTip": "ElectronicsEcommerce\\ProductDetails.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-10T13:24:20.591Z",
+              "WhenOpened": "2025-05-10T15:42:19.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\DBHelper.cs",
+              "RelativeDocumentMoniker": "ElectronicsEcommerce\\DBHelper.cs",
+              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\DBHelper.cs",
+              "RelativeToolTip": "ElectronicsEcommerce\\DBHelper.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAmwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:35:52.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Site.Master",
               "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Site.Master",
               "RelativeDocumentMoniker": "ElectronicsEcommerce\\Site.Master",
@@ -96,103 +88,25 @@
               "RelativeToolTip": "ElectronicsEcommerce\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-10T12:46:54.991Z",
+              "WhenOpened": "2025-05-10T15:32:15.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Site.Master.cs",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Site.Master.cs",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Site.Master.cs",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Site.Master.cs",
-              "RelativeToolTip": "ElectronicsEcommerce\\Site.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:00:39.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.aspx.cs",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Home.aspx.cs",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Home.aspx.cs",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Home.aspx.cs",
-              "RelativeToolTip": "ElectronicsEcommerce\\Home.aspx.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAwFoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:11:06.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Logout.aspx",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Logout.aspx",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Logout.aspx",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Logout.aspx",
-              "RelativeToolTip": "ElectronicsEcommerce\\Logout.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-10T12:53:40.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Checkout.aspx",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Checkout.aspx",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Checkout.aspx",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Checkout.aspx*",
-              "RelativeToolTip": "ElectronicsEcommerce\\Checkout.aspx*",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-10T12:36:22.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Login.aspx",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Login.aspx",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Login.aspx",
-              "RelativeToolTip": "ElectronicsEcommerce\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-10T12:53:10.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "ElectronicsEcommerce\\Login.aspx.cs",
-              "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\Login.aspx.cs",
-              "RelativeToolTip": "ElectronicsEcommerce\\Login.aspx.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:53:28.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "ShopCart.aspx.cs",
               "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ShopCart.aspx.cs",
               "RelativeDocumentMoniker": "ElectronicsEcommerce\\ShopCart.aspx.cs",
               "ToolTip": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ShopCart.aspx.cs",
               "RelativeToolTip": "ElectronicsEcommerce\\ShopCart.aspx.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAowGgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:05:47.979Z",
+              "WhenOpened": "2025-05-10T15:31:10.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ShopCart.aspx",
               "DocumentMoniker": "D:\\z_Clients Project\\ElectronicsEcommerce\\ElectronicsEcommerce\\ElectronicsEcommerce\\ShopCart.aspx",
               "RelativeDocumentMoniker": "ElectronicsEcommerce\\ShopCart.aspx",
@@ -200,8 +114,7 @@
               "RelativeToolTip": "ElectronicsEcommerce\\ShopCart.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-10T12:05:44.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T15:30:50.644Z"
             }
           ]
         }

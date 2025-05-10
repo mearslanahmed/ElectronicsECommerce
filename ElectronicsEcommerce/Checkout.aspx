@@ -1,15 +1,15 @@
-﻿<%@ Page Title="Checkout" Language="C#" MasterPageFile="~/Site.Master" 
-    AutoEventWireup="true" CodeBehind="Checkout.aspx.cs" 
+﻿<%@ Page Title="Checkout" Language="C#" MasterPageFile="~/Site.Master"
+    AutoEventWireup="true" CodeBehind="Checkout.aspx.cs"
     Inherits="ElectronicsEcommerce.Checkout" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container mt-4">
         <h2 class="mb-4">Checkout</h2>
-        
+
         <!-- Shipping Information -->
         <div class="card mb-4 shadow">
             <div class="card-header bg-primary text-white">
-                <h4 class="mb-0"><i class="fas fa-shipping-fast"></i> Shipping Details</h4>
+                <h4 class="mb-0"><i class="fas fa-shipping-fast"></i>Shipping Details</h4>
             </div>
             <div class="card-body">
                 <div class="row">
@@ -41,11 +41,9 @@
         </div>
 
         <!-- Payment Method -->
-                <!-- Payment Method -->
-                <!-- Payment Method -->
         <div class="card mb-4 shadow">
             <div class="card-header bg-info text-white">
-                <h4 class="mb-0"><i class="fas fa-credit-card"></i> Payment Method</h4>
+                <h4 class="mb-0"><i class="fas fa-credit-card"></i>Payment Method</h4>
             </div>
             <div class="card-body">
                 <div class="form-group">
@@ -67,7 +65,7 @@
                     </div>
                 </div>
 
-                <div id="cardDetails" style="display:none; margin-top:1rem;">
+                <div id="cardDetails" style="display: none; margin-top: 1rem;">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
@@ -106,7 +104,7 @@
         <!-- Order Summary -->
         <div class="card shadow">
             <div class="card-header bg-info text-white">
-                <h4 class="mb-0"><i class="fas fa-receipt"></i> Order Summary</h4>
+                <h4 class="mb-0"><i class="fas fa-receipt"></i>Order Summary</h4>
             </div>
             <div class="card-body">
                 <asp:Repeater ID="rptOrderSummary" runat="server">
@@ -125,20 +123,20 @@
                         </div>
                     </ItemTemplate>
                 </asp:Repeater>
-                
+
                 <hr />
                 <h4 class="text-right">Grand Total: $<asp:Literal ID="litGrandTotal" runat="server" /></h4>
-                
+
                 <div class="text-right mt-4">
-                    <asp:Button ID="btnPlaceOrder" runat="server" 
-                        Text="Place Order Now" 
-                        CssClass="btn btn-success btn-lg mr-3" 
+                    <asp:Button ID="btnPlaceOrder" runat="server"
+                        Text="Place Order Now"
+                        CssClass="btn btn-success btn-lg mr-3"
                         OnClick="btnPlaceOrder_Click" />
-                    
-                    <button type="button" class="btn btn-primary btn-lg" 
-                        style="background: #003087; color: white;" 
+
+                    <button type="button" class="btn btn-primary btn-lg"
+                        style="background: #003087; color: white;"
                         onclick="processDummyPayment()">
-                        <i class="fab fa-paypal"></i> PayPal Checkout
+                        <i class="fab fa-paypal"></i>PayPal Checkout
                     </button>
                 </div>
                 <div id="paymentStatus" class="mt-3"></div>
@@ -158,7 +156,7 @@
             input.value = v;
         }
 
-        // ensure correct initial state
+        // ensures correct initial state
         document.addEventListener('DOMContentLoaded', toggleCardFields);
 
         function processDummyPayment() {
@@ -192,19 +190,19 @@
                         postalCode: document.getElementById('<%= txtPostalCode.ClientID %>').value
                     })
                 })
-                .then(response => response.json())
-                .then(data => {
-                    if (data.d.success) {
-                        window.location.href = 'PaymentSuccess.aspx?txn=' + transactionId;
-                    } else {
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.d.success) {
+                            window.location.href = 'PaymentSuccess.aspx?txn=' + transactionId;
+                        } else {
+                            statusDiv.className = 'alert alert-danger';
+                            statusDiv.innerHTML = 'Payment failed: ' + data.d.message;
+                        }
+                    })
+                    .catch(error => {
                         statusDiv.className = 'alert alert-danger';
-                        statusDiv.innerHTML = 'Payment failed: ' + data.d.message;
-                    }
-                })
-                .catch(error => {
-                    statusDiv.className = 'alert alert-danger';
-                    statusDiv.innerHTML = 'Error: ' + error.message;
-                });
+                        statusDiv.innerHTML = 'Error: ' + error.message;
+                    });
             }, 1500);
         }
 

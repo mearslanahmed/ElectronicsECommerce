@@ -11,25 +11,30 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             height: 100%;
         }
-        .product-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
-        }
+
+            .product-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            }
+
         .card-img-top {
             height: 250px;
             object-fit: contain;
             padding: 15px;
         }
+
         .card-title {
             font-size: 1.1rem;
             min-height: 3rem;
         }
+
         .price-tag {
             color: #2c3e50;
             font-weight: 600;
             font-size: 1.25rem;
             margin-bottom: 1rem;
         }
+
         .btn-group {
             display: flex;
             gap: 10px;
@@ -37,8 +42,7 @@
     </style>
 
     <!-- Welcome Message -->
-    <h1 class="display-4 mb-4">
-        Welcome, <%: Session["Username"] ?? "Guest" %>!
+    <h1 class="display-4 mb-4">Welcome, <%: Session["Username"] ?? "Guest" %>!
     </h1>
 
     <!-- Product Listing Section -->
